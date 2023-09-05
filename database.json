@@ -81,12 +81,7 @@
         "stock": 32,
         "brand": "Huawei",
         "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-        "images": [
-          "https://i.dummyjson.com/data/products/5/1.jpg",
-          "https://i.dummyjson.com/data/products/5/2.jpg",
-          "https://i.dummyjson.com/data/products/5/3.jpg"
-        ]
+        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
       },
       {
         "id": 6,
